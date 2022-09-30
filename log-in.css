@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background: rgba(0, 0, 0, 0.6)url(images/login\ page.png);
+}
+.body{
+    font-family: sans-serif;
+    background-blend-mode: darken;
+    background-size: noon;
+}
+.logo {
+    width: 10%;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    height: 10vh;
+}
+.nav{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 29%;
+    color: #fff;
+}
